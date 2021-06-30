@@ -6,7 +6,7 @@ package FicPlaySynthesizer.synthesis.runners.roundRobinLocal;
 
 import ai.core.AI;
 import ai.evaluation.SimpleSqrtEvaluationFunction3;
-import TathySynthesizer.synthesis.DslLeague.Runner.SettingsAlphaDSL;
+import FicPlaySynthesizer.synthesis.DslLeague.Runner.SettingsAlphaDSL;
 import ai.synthesis.dslForScriptGenerator.DSLCommandInterfaces.ICommand;
 import ai.synthesis.dslForScriptGenerator.DSLCompiler.IDSLCompiler;
 import ai.synthesis.dslForScriptGenerator.DSLCompiler.MainDSLCompiler;
